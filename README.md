@@ -1,2 +1,2 @@
-# Sales-data-analyse
+# Sales-Data-Analysis
 This is a Python script that cleans and preprocesses the Diwali Sales Data CSV file using the pandas library.
